@@ -1,12 +1,12 @@
 ---
 aliases: [arm]
-title: Tactile Interaction of Robot Fingertip
+title: 带触觉传感器的触摸机械臂开发与研究
 summary: 
-    <strong>Research Intern at Tongji University, Supervisor.[Prof. Peng Qi](http://orcid.org/0000-0003-0514-9464)</strong><br>
-    👌 Designed a novel robot fingertip attached with tactile sensors to explore detailed properties of surfaces<br>
-    👌 Presented a robust surface following algorithm based on the tactile force for the fingertip to follow irregular objects and surfaces with discontinuous curvature such as cubes<br>
+    <strong>同济大学实验室, 指导老师.[助理教授齐鹏](http://orcid.org/0000-0003-0514-9464)</strong><br>
+    👌 设计了一种带有触觉传感器的新型机器手，以探索物体表面性质<br>
+    👌 提出了一种基于触觉力的表面跟踪算法，可以跟踪具有不连续曲面的不规则物体的表面，并使用前馈神经网络对物体表面进行分类<br>
     👌 Designed a feed forward neural network to classify objects with different adjectives, i.e. soft-smooth soft-rough, hard-smooth, hard-rough<br>z
-    📒 Submitted a paper to 2021 IEEE International Conference on Robotics and Automation [C.2]<br> 
+    📒 提交一篇论文到机器人顶会2021ICRA[C.2]<br> 
 abstract: ""
 date: "2020-11-07T16:56:12.584Z"
 image:
@@ -32,4 +32,4 @@ tags:
 
 ---
 
-To effectively interact with the physical world, an intelligent robot is required to have the ability to obtain the detailed features of an unknown object. Visual devices are commonly used to detect the global geometry of an object; however, detailed information such as surface properties cannot be identified using these devices. The current study proposes an adaptive haptic exploration method to recognize the physical properties of surfaces using an intelligent fingertip. Our surface-following algorithm utilizes the normal force vector and the tangential force vector at the contact point between the fingertip and the target object to predict the moving direction and to implement surface exploration. In addition, a correction index K is introduced to adjust the sliding velocity and surface following on irregular objects. The algorithm is proved to be robust and superior both in simulation and lab experiments. Finally, we propose and explore a haptic prediction neural network, which enables our robot to have an accurate feel through physical interaction. The overall accuracy of the proposed model is 90.2%.
+为了有效地与物理世界进行交互，智能机器人需要具备获取未知物体细节特征的能力。视觉设备通常用于检测对象的全局几何形状; 然而，使用这些设备无法识别表面性质等详细信息。本研究提出一种自适应触觉探测方法，利用智能指尖识别物体表面的物理性质。我们的表面跟随算法利用指尖与目标物体接触点处的法向力向量和切向力向量来预测目标物体的运动方向并实现表面探测。此外，引入修正指数K来调整不规则物体的滑动速度和表面跟随。仿真和室内实验都证明了该算法的鲁棒性和优越性。最后，我们提出并探索一种触觉预测神经网络，使我们的机器人能够通过物理交互获得准确的感觉。该模型的整体精度为90.2%。

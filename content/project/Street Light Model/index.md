@@ -12,7 +12,7 @@ summary:
 
     🏆 Won Third Prize in the 2018 Innovation and Entrepreneurship Forum, TJU<br>
     📒 Published a paper in 2019 ICAICS[C.1]
-draft: false
+draft: true
 featured: true
 tags:
   - Sensors Interaction

@@ -2,20 +2,19 @@
 draft: false
 slides: example
 url_pdf: ""
-title: Web Chat Robot
+title: 开发用于解决相互理解问题的网络会议聊天机器人
 date: 2020-12-17T00:00:00.000Z
 summary:     
-    <strong>Remote Research Intern at [Lifelong Learning Lab](https://web.eecs.umich.edu/~xwanghci/), UMich</strong><br>
+    <strong>暑期实习，[Lifelong Learning Lab](https://web.eecs.umich.edu/~xwanghci/), UMich</strong><br>
     <strong>Supervisor. [Prof. Xu Wang](https://web.eecs.umich.edu/~xwanghci/)</strong><br>
-    👌 Designed storyboards for different user needs in the cooperation meeting(i.e. time allocation problem, incomplete hearing problem) and tested it by speed dating<br>
-    👌 Developed a Django-based website with video conference feature, online chat feature(based on Django channel), and voice auto-transcript feature<br>
-    👌 Designed a chat robot to detect mentioned meeting problems and to improve cooperation efficiency<br>
+    👌 针对视频会议的不同的用户需求设计故事板(例如会议时间分配问题，听不懂等问题)，并通过开展用户访谈来筛选有用的功能<br>
+    👌 开发了一个基于Django的网站，具有视频会议、在线聊天(基于Django Channel)、实现语音自动转文字，并在此转译文本基础上协同笔记等功能<br>
+    👌 设计了一个会议机器人来控制会议进行时间，提升会议效率<br>
 
 url_video: ""
 featured: true
 tags:
-  - Web Application
-  - In Progress
+  - WEB开发
 external_link:
 url_slides: ""
 links:
@@ -31,4 +30,4 @@ image:
 url_code: ""
 ---
 
-Video-based project discussions are becoming increasingly prevalent in remote group work. A lack of mutual understanding between team members can be common in such conversations as people are cognitively occupied with speaking, listening, and monitoring the conversations at the same time. In this work, based on the challenges around establishing mutual understanding during video-based project meetings, we build a web video conference tools to provide in-situ support to enable more transparent and productive project discussions.
+如今基于视频的项目讨论在远程小组工作中越来越普遍。团队成员之间缺乏相互理解在这类对话中很常见，因为人们都在认知地同时忙于说、听和监控对话。在这项工作中，在基于视频的项目会议中相互理解所面临的挑战的基础上，我们构建了一个web视频会议工具来提供支持，以使项目讨论更加透明和富有成效。

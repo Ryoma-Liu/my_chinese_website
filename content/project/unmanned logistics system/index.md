@@ -2,26 +2,23 @@
 draft: false
 slides: example
 url_pdf: ""
-title: Unmanned Logistics System
+title: 无人物流系统仿真平台&1:10实体车的开发
 date: 2020-04-08T03:06:06.515Z
 summary:     
-    <strong>Research Intern at [Tongji-MIT City Science Lab](https://www.media.mit.edu/projects/city-science-lab-shanghai/overview/)</strong><br>
-    <strong>Supervisor. [Prof. Xiaohua Sun](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=3865&lang=en)</strong><br>
-    👌 Developed the 3D simulation environment(warehouse, roadmap and multiple delivery cars) in unity<br>
-    👌 Implemented autonomous driving modules of delivery robots including image processing module (lane detecting with OpenCV, traffic sign and pedestrian recognition with Yolo v3), decision-making module, multilane path planning module(with reinforcement learning) as well as controller module<br>
-    👌 Connected the simulation environment to real scenarios with “hilens-studio” to enable fast deployment<br>
-
-    👌 Designed a user-interface to learn human preference about choosing routes based on energy, time, and priority of goods, etc. <br>
+    <strong>实习，上海意赋教育科技有限公司</strong><br>
+    👌 在unity中开发三维仿真环境(无人车配送环境、多辆物流车)<br>
+    👌 开发物流机器人(prototype)的自动驾驶模块包括图像处理模块(使用OpenCV检测车道线，使用Yolo V3识别交通标志和行人)，决策模块，多车道路径规划模块(使用强化学习)和控制器模块<br>
+    👌 通过“hilens-studio” 连接仿真器和实际平台，实现仿真平台到实际物流系统算法的一键部署<br>
 
 authors:
-  - Shipeng Liu
+  - 刘世鹏
 url_video: ""
 featured: true
 external_link:
 url_slides: ""
 tags:
-  - User Interface
-  - Reinforcement Learning
+  - 仿真
+  - 强化学习
 links:
   - icon: twitter
     icon_pack: fab
