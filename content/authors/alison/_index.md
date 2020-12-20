@@ -43,10 +43,10 @@ education:
 name: 刘世鹏
 email: shipeng_liu@hotmail.com
 ---
-**刘世鹏 **  于2020年以优异的成绩毕业于中国上海的[同济大学](https://www.tongji.edu.cn/), 并获得通信工程学士学位，以及数学辅修学位。
+**刘世鹏**于2020年以优异的成绩毕业于中国上海的[同济大学](https://www.tongji.edu.cn/), 并获得通信工程学士学位，以及数学辅修学位。
 
-“Life is full of Challenges” is my life motto,  which  inspired me to explore **the interdisciplinary realm of robotic intelligence** through the internship and research exploration. Currently, I am doing a research intern remotely in [UMich](https://cse.engin.umich.edu/) under the supervision of [Prof. Xu Wang](http://www.cs.cmu.edu/~xuwang/). 
+“生活充满了挑战”是我的人生座右铭，这激励了我通过实习和研究工作探索探索机器人智能的跨学科领域。目前，我在[UMich](https://cse.engin.umich.edu/)进行远程研究实习，由助理教授[xu wang](http://www.cs.cmu.edu/~xuwang/)指导。
 
-Previously, I worked on **simulation and learning for control of unmanned vehicles** supervised by [Prof. Ming Liu](https://sites.google.com/site/mingliurobot/home) in [Robotics and Multi-Perception Lab, Robotics Institute, HKUST](https://www.ram-lab.com/), which resulted in my [bachelor thesis](https://drive.google.com/file/d/1vxKW60K_4ylXPLzWtbUYh4adRWStaSmV/view?usp=sharing).
+在此之前，我在[刘明](https://sites.google.com/site/mingliurobot/home)教授指导下在[香港科技大学机器人研究所、机器人与多感知实验室](https://www.ram-lab.com/)从事无人驾驶车辆的仿真和控制工作。这也是我的[毕业论文](https://drive.google.com/file/d/1vxKW60K_4ylXPLzWtbUYh4adRWStaSmV/view?usp=sharing)。
 
-For more info, you can refer to the latest **[CV](</pdf/cv.pdf>)** here.
+您可以在这里获得我的最新**[CV](</pdf/cv.pdf>)**。
