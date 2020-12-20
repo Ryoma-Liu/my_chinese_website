@@ -20,9 +20,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:shipeng_liu@hotmail.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ryoma-liu
   - icon: github
     icon_pack: fab
     link: https://github.com/ryoma-liu
