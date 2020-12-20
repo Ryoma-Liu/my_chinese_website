@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = ""
-subtitle = "Recent Publications"
+subtitle = "最近的出版物&报告"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

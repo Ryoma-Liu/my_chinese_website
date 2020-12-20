@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = ""
-subtitle = "From my blog"
+subtitle = "最近博客"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

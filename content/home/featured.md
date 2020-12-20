@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "最近的出版物&报告"
 subtitle = ""
 
 [content]

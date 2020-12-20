@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = ""
-subtitle = "Recent News"
+subtitle = "最近消息"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
