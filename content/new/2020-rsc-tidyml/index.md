@@ -1,11 +1,11 @@
 ---
-title: "2020-04-27：I completed the course Robotics:Aerial Robotics in Coursera! "
+title: "2020-04-27：我完成了Coursera的机器人：Aerial Robotics课程! "
 subtitle:
 draft: false
 event: 'rstudio::conf 2020'
 event_url: https://rstd.io/conf
 location: San Francisco, CA
-summary: "I am interested in robotics and self-driving cars and I spent my free-time in coursera to learn more about robotics and self-driving cars, completing the course [Robotics:Aerial Robotics](https://www.coursera.org/learn/robotics-flight)"
+summary: "我对机器人和自动驾驶汽车很感兴趣，我利用课余时间在coursera学习更多关于机器人和自动驾驶汽车的知识，完成了课程 [Robotics:Aerial Robotics](https://www.coursera.org/learn/robotics-flight)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
