@@ -1,22 +1,21 @@
 ---
-title: Shipeng-Liu
-role: Graduate student with honor in Electrical Engineering
+title: 刘世鹏
+role: 优秀毕业生，电气工程
 avatar_filename: avatar.jpg
 organizations:
-  - name: Tongji University
+  - name: 同济大学
     url: https://www.tongji.edu.cn/
 superuser: true
 authors:
-  - shipeng liu
-bio: My research interests include human-robot interaction, user interface
-  design, web application, as well as reinforcement learning.
+  - 刘世鹏
+bio: 我的研究兴趣包括人机交互、用户界面设计、web应用以及强化学习。
 interests:
-  - HRI
-  - Artificial intelligence
-  - Website design
-  - Learning for control
-  - Reinforcement Learning
-  - Self-driving Cars
+  - 人/机器人交互
+  - 人工智能
+  - 网页设计
+  - 智能控制
+  - 强化学习
+  - 无人驾驶汽车
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,13 +37,13 @@ social:
     link: https://scholar.google.com/
 education:
   courses:
-    - course: BEng in Electrical Engineering
-      institution: Tongji University
-      year: 2019
-name: Shipeng Liu
+    - course: 电子与信息工程学士
+      institution: 同济大学
+      year: 2020
+name: 刘世鹏
 email: shipeng_liu@hotmail.com
 ---
-**Shipeng Liu** (in Chinese: 刘世鹏)  received his Bachelor’s Degree in Communication Engineering and Mathematics with Excellent Graduate Honor in 2020 from [Tongji University](https://www.tongji.edu.cn/), Shanghai, China.
+**刘世鹏 **  于2020年以优异的成绩毕业于中国上海的[同济大学](https://www.tongji.edu.cn/), 并获得通信工程学士学位，以及数学辅修学位。
 
 “Life is full of Challenges” is my life motto,  which  inspired me to explore **the interdisciplinary realm of robotic intelligence** through the internship and research exploration. Currently, I am doing a research intern remotely in [UMich](https://cse.engin.umich.edu/) under the supervision of [Prof. Xu Wang](http://www.cs.cmu.edu/~xuwang/). 
 
