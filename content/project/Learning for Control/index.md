@@ -3,7 +3,7 @@ title: 基于Carla的无人驾驶控制仿真平台开发 & 高速自动驾驶�
 date: 2020-06-08T04:05:23.062Z
 summary:   
 
-    <strong>Intern at [Robotics and Multi-perception Lab](https://www.ram-lab.com/), 香港科技大学&深圳一清科技有限公司</strong><br>
+    <strong>实习，[Robotics and Multi-perception Lab](https://www.ram-lab.com/), 香港科技大学&深圳一清科技有限公司</strong><br>
     <strong>导师：刘明教授</strong><br>
     👌 测量和校准了无人车夸父的动力学参数，并将其与CARLA模拟器集成<br>
     👌 开发轨迹设计模块(包括b样条、贝塞尔曲线和三次样条轨迹),车辆控制模块(横向控制和纵向控制)以及可视化模块<br>
