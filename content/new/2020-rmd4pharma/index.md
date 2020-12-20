@@ -1,10 +1,10 @@
 ---
-title: "2020-08-07: I am honored to join the LifelongLearning Lab"
+title: "2020-08-07: 我加入了LifelongLearning Lab"
 draft: false
 event: 'R in Pharma 2020'
 event_url: https://rinpharma.com/rpharma_2020/
 location: Philadelphia, PA
-summary: "Start from early August, I will have a research intern in [LifelongLearning Lab](https://web.eecs.umich.edu/~xwanghci/) supervised by [Prof. Xu Wang](https://web.eecs.umich.edu/~xwanghci/)"
+summary: "从八月份开始，我将在[LifelongLearning Lab](https://web.eecs.umich.edu/~xwanghci/)开始研究实习工作， 由[Prof. Xu Wang](https://web.eecs.umich.edu/~xwanghci/)指导"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

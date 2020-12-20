@@ -1,14 +1,14 @@
 ---
-title: "2020-11-12: I am seeking for Ph.D. positions."
+title: "2020-11-12: 我正在寻找Ph.D.职位."
 
 draft: true
 authors: 
-  - Shipeng Liu
+  - 刘世鹏
 event: 'R-Ladies Chicago'
 event_url: https://www.meetup.com/rladies-chicago/events/273650234/
 location: Online meetup
 abstract: ""
-summary: "Please contact me through shipeng_liu@hotmail.com"
+summary: "请通过shipeng_liu@hotmail.com邮件联系我"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

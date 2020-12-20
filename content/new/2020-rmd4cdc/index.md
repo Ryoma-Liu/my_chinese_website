@@ -1,10 +1,10 @@
 ---
-title: "2020-6-28: Congratulations to me!"
+title: "2020-6-28: 祝贺我！"
 draft: false
 event: 'R user community at the Centers for Disease Control'
 event_url: 
 location: remote
-summary: "I successfully defense my bachlor thesis!"
+summary: "我成功的完成了我的学士学位论文"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

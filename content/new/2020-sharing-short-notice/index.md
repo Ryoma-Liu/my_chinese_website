@@ -1,5 +1,5 @@
 ---
-title: "2020-11-01: Paper submitted to ICRA 2021"
+title: "2020-11-01: 提交了一篇论文到机器人顶会ICRA 2021"
 draft: false
 authors: 
   - shipeng liu
@@ -7,7 +7,7 @@ event: 'RStudio Webinar'
 event_url: https://resources.rstudio.com/webinars/sharing-on-short-notice-how-to-get-your-materials-online-with-r-markdown
 location: Online webinar
 abstract: ""
-summary: "Our paper **An Adaptive Haptic Exploration and Surface Classification of Irregular Objects** has been submitted to IEEE International Conference on Robotics and Automation(ICRA)!"
+summary: "我们的论文 **An Adaptive Haptic Exploration and Surface Classification of Irregular Objects** 已经提交到 IEEE International Conference on Robotics and Automation(ICRA)!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
