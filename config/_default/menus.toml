@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "个人陈述"
+  name = "<i class='fas fa-tags'></i>个人陈述"
   url = "about"
   weight = 10
 
